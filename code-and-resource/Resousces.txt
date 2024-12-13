@@ -1,0 +1,101 @@
+Image Converter : https://www.freeconvert.com/image-converter
+
+ background-attachment: fixed;
+  background-position: center;
+  margin: 0;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  
+  background-size: cover;
+
+
+Fonts:
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+
+
+
+Icons: (RemixIcon and BoxIcons)
+<link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+        <link rel="stylesheet"
+        href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+        <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css"
+    rel="stylesheet"/>
+
+
+
+
+  Scroll Effect :https://scrollrevealjs.org
+
+  # WebGL Ghost Cursor
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/ksenia-k/pen/yLGxEKb](https://codepen.io/ksenia-k/pen/yLGxEKb).
+
+
+
+
+
+Color Combination (1) 
+--bg-color: #000000; /* Rich Black Background */
+--second-bg-color: #1C1C1C; /* Dark Gray for sections or cards */
+--text-color: #F5F5F5; /* Off-White for softer contrast */
+--main-color: #FF6F61; /* Vibrant Coral for highlights */
+--other-color: #A0A0A0; /* Neutral Light Gray for subtle text */
+--alt-color: #333333; /* Medium Gray for borders or accents */
+--ann-color: #FFD580; /* Warm Light Yellow for attention elements */
+--gradient: linear-gradient(135deg, #FF6F61 0%, #FFD580 100%);
+--gradient2: linear-gradient(135deg, #FFD580 0%, #FF6F61 100%);
+--webkit-color: -webkit-linear-gradient(135deg, #FF6F61 0%, #FFD580 100%);
+--webkit-color2: -webkit-linear-gradient(135deg, #FFD580 0%, #FF6F61 100%);
+
+Color Combination (2)
+--bg-color: #0A192F; /* Rich Navy Blue for the background */
+--second-bg-color: #112240; /* Darker Blue-Grey for sections */
+--text-color: #E6F1FF; /* Soft Light Blue for readable text */
+--main-color: #64FFDA; /* Bright Aqua for highlights and CTAs */
+--other-color: #8892B0; /* Cool Blue-Grey for secondary text */
+--alt-color: #172A45; /* Medium Blue-Grey for cards or borders */
+--ann-color: #3D5A80; /* Steel Blue for announcements or accent text */
+--gradient: linear-gradient(135deg, #3D5A80 0%, #64FFDA 100%);
+--gradient2: linear-gradient(135deg, #64FFDA 0%, #3D5A80 100%);
+--webkit-color: -webkit-linear-gradient(135deg, #3D5A80 0%, #64FFDA 100%);
+--webkit-color2: -webkit-linear-gradient(135deg, #64FFDA 0%, #3D5A80 100%);
+
+
+Color Combination(3)
+--bg-color: #1E1E2F; /* Deep Midnight Blue for a sophisticated base */
+    --second-bg-color: #282A36; /* Dark Charcoal for section contrasts */
+    --text-color: #F8F8F2; /* Soft Off-White for readability */
+    --main-color: #FF79C6; /* Bright Pink for primary highlights */
+    --other-color: #6272A4; /* Muted Blue for secondary elements */
+    --alt-color: #44475A; /* Slate Gray for accents */
+    --ann-color: #50FA7B; /* Neon Green for attention-grabbing highlights */
+    --gradient: linear-gradient(135deg, #FF79C6 0%, #50FA7B 100%);
+    --gradient2: linear-gradient(135deg, #50FA7B 0%, #FF79C6 100%);
+    --webkit-color: -webkit-linear-gradient(135deg, #FF79C6 0%, #50FA7B 100%);
+    --webkit-color2: -webkit-linear-gradient(135deg, #50FA7B 0%, #FF79C6 100%);
+
+
+    Color Combination(4)
+        /* --bg-color: #121212;
+    --second-bg-color: #202020;
+    --text-color:#fff;
+    --main-color: #b68362;
+    --other-color: #8b8a91;
+    --alt-color: #4b4b51;
+    --ann-color: #c7c6d3;
+
+   
+    --gradient: linear-gradient(135deg, #e1bac5 0%, var(--main-color) 100%);
+    --gradient2 :linear-gradient(135deg, var(--main-color)  0%,#e1bac5 100%);
+    --webkit-color: -webkit-linear-gradient(135deg, #e1bac5 0%, var(--main-color) 100%);
+    --webkit-color2: -webkit-linear-gradient(135deg, var(--main-color) 0%, #e1bac5  100%); */
+
+
+
+    Steam : https://steamcommunity.com/profiles/76561199690155206/
